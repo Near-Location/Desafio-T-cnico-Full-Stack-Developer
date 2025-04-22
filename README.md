@@ -52,6 +52,19 @@ Você deve implementar um sistema com as seguintes funcionalidades:
 
 ---
 
+## 📤 Como Submeter o Projeto
+
+1. **Crie um repositório no GitHub (ou outra plataforma de sua escolha)**
+   - O nome do repositório pode ser algo como `auth-user-management-system` ou algo semelhante.
+   
+2. **Inclua uma descrição do seu projeto no README**
+   - Explique brevemente o que foi feito, as tecnologias utilizadas, e como rodar o projeto.
+
+3. **Compartilhe o link do repositório com o avaliador**
+   - Após concluir o projeto, envie o link do repositório
+
+---
+
 ## 🚀 Como rodar o projeto (sugestão)
 
 Você pode utilizar `docker-compose` para subir o banco e o backend com facilidade.
