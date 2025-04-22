@@ -17,7 +17,7 @@ Você deve implementar um sistema com as seguintes funcionalidades:
   - CPF (formato válido e único)
   - Data de nascimento (mínimo 18 anos)
   - Data limite de acesso
-  - Perfil (`ADMIN`, `VISUALIZADOR`, `USER`)
+  - Perfil (`ADMIN`, `VISUALIZADOR`)
   - O candidato deverá implementar todas as operações de CRUD (Criar, Ler, Atualizar, Deletar) para os usuários cadastrados.
 - Usuário só pode logar se estiver dentro da data de acesso válida
 - Sistema deve criar automaticamente um usuário `admin` com senha `admin` na primeira execução
