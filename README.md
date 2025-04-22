@@ -26,8 +26,7 @@ Você deve implementar um sistema com as seguintes funcionalidades:
 | Perfil       | Permissões                                                         |
 |--------------|---------------------------------------------------------------------|
 | `ADMIN`      | Pode cadastrar, editar, deletar e visualizar usuários              |
-| `VISUALIZADOR` | Pode apenas visualizar a lista e os dados dos usuários             |
-                  |
+| `VISUALIZADOR` | Pode apenas visualizar a lista e os dados dos usuários             |            
 
 ---
 
