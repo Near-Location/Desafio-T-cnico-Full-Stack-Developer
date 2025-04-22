@@ -27,19 +27,18 @@ Você deve implementar um sistema com as seguintes funcionalidades:
 |--------------|---------------------------------------------------------------------|
 | `ADMIN`      | Pode cadastrar, editar, deletar e visualizar usuários              |
 | `VISUALIZADOR` | Pode apenas visualizar a lista e os dados dos usuários             |
-| `USER`       | Personalize como preferir, se necessário                           |
+                  |
 
 ---
 
 ## ⚙️ Stack Sugerida
 
 - **Frontend:** React + Bootstrap 5
-- **Backend:** Node.js (Express, NestJS ou outro de sua preferência)
+- **Backend:** Node.js (Express, NestJS ou outro de sua preferência) Ou Java, Fique a sua escolha :)
 - **Banco de dados:** PostgreSQL
 - **Extras sugeridos:**
   - Autenticação via JWT
   - Docker para facilitar execução
-  - Testes automatizados com Jest, Mocha ou JUnit
 
 ---
 
@@ -50,7 +49,6 @@ Você deve implementar um sistema com as seguintes funcionalidades:
 - Controle de acesso por perfil
 - Clareza na estrutura da aplicação
 - Qualidade do front-end (UX, responsividade, componentização)
-- Testes básicos automatizados (login e cadastro)
 - Documentação de uso no README
 
 ---
