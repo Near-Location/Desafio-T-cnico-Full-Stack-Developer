@@ -14,13 +14,14 @@ Você deve implementar um sistema com as seguintes funcionalidades:
 - Controle de acesso por **perfil**
 - Cadastro de usuários com os campos:
   - Nome
+  - E-mail
   - CPF (formato válido e único)
   - Data de nascimento (mínimo 18 anos)
   - Data limite de acesso
   - Perfil (`ADMIN`, `VISUALIZADOR`)
   - O candidato deverá implementar todas as operações de CRUD (Criar, Ler, Atualizar, Deletar) para os usuários cadastrados.
 - Usuário só pode logar se estiver dentro da data de acesso válida
-- Sistema deve criar automaticamente um usuário `admin` com senha `admin` na primeira execução
+- Sistema deve criar automaticamente um usuário `admin@teste.com.br` com senha `07L5s![UqI!3` na primeira execução
 
 ### 🔐 Perfis de acesso
 
